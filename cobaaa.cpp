@@ -16,7 +16,7 @@ int main () {
 	cout<<"Masukan kelas : ";
 	cin>>kelas;
 	
-	cout<<"Masukan nilai bahasa inggris : ";
+	cout<<"Masukan nilai bahasa inggris :: ";
 	cin>>binggris;
 	cout<<"Masukan nilai bahasa indonesia : ";
 	cin>>bindo;
