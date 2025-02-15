@@ -78,7 +78,7 @@ int main () {
 		cout<<nama;
 		cout<<" dari kelas ";
 		cout<<kelas;
-		cout<<" dinyatakan tidak lulus";
+		cout<<" dinyatakan tidak bisa lulus";
 		
 	}
 	
